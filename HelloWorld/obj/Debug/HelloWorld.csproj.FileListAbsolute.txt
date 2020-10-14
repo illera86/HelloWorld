@@ -4,3 +4,9 @@ C:\Users\Victor\Desktop\ESCRITORIO\PROJECTS C#\HelloWorld\HelloWorld\bin\Debug\H
 C:\Users\Victor\Desktop\ESCRITORIO\PROJECTS C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
 C:\Users\Victor\Desktop\ESCRITORIO\PROJECTS C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\Victor\Desktop\ESCRITORIO\PROJECTS C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Victor\Desktop\DAW\M8-Web\Git\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\DAW\M8-Web\Git\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Victor\Desktop\DAW\M8-Web\Git\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Victor\Desktop\DAW\M8-Web\Git\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Victor\Desktop\DAW\M8-Web\Git\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Victor\Desktop\DAW\M8-Web\Git\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
